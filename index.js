@@ -1,7 +1,7 @@
 
 const readline =require('readline');
 const async=require('async');
-const chalk=require('chalk');
+//const chalk=require('chalk');
 //const chalk =require('chalk');
 //const log=console.log;
 const helper=require('./displayFunc');
