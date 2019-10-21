@@ -5,6 +5,7 @@ const display = (input,info,memid,jid,sid) => {
 
     console.log(chalk.blue("\nDisplay:"))
     console.log("Advocate Name:",memid);
+	console.log("Here");
 
     if(input !=1 && input !=7){
         if(info[memid].State != undefined)
