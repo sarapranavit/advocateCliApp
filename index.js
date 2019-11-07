@@ -20,7 +20,7 @@ let jidArr={}
 let advocateId='';
 let caseArr={}
 let blockList={}
-
+console.log("Test");
 rl.prompt();
 
 rl.on('line',(input) =>{
