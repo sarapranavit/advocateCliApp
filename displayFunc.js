@@ -1,6 +1,8 @@
 const async=require('async');
 const chalk=require('chalk');
 
+console.log("Hereerr");
+
 const display = (input,info,memid,jid,sid) => {
 
     console.log(chalk.blue("\nDisplay:"))
