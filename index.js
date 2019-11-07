@@ -1,7 +1,7 @@
 
 const readline =require('readline');
 const async=require('async');
-const chalk=require('chalk');
+//const chalk=require('chalk');
 //const chalk =require('chalk');
 //const log=console.log;
 console.log("Hi");
@@ -21,7 +21,7 @@ let jidArr={}
 let advocateId='';
 let caseArr={}
 let blockList={}
-
+console.log("Test");
 rl.prompt();
 
 rl.on('line',(input) =>{
