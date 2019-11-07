@@ -4,6 +4,7 @@ const async=require('async');
 const chalk=require('chalk');
 //const chalk =require('chalk');
 //const log=console.log;
+console.log("Hi");
 const helper=require('./displayFunc');
 
 const rl=readline.createInterface({
